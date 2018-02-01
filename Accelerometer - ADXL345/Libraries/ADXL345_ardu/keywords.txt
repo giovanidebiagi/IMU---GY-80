@@ -1,0 +1,8 @@
+## OBJECTS
+ADXL345		KEYWORD1
+
+## FUNCTIONS
+getAcceleration	KEYWORD2
+getRoll		KEYWORD2
+getPitch	KEYWORD2
+accelerometerInit	KEYWORD2

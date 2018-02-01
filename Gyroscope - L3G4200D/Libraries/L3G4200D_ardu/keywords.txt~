@@ -1,0 +1,9 @@
+## OBJECTS
+L3G4200D	KEYWORD1
+
+## FUNCTIONS
+getGyroData	KEYWORD2
+writeRegister	KEYWORD2
+getPitch	KEYWORD2
+gyroscopeInit	KEYWORD2
+
